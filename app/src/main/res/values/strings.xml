@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SoundPool</string>
+    <string name="btn_play_title_0">Play 0</string>
+    <string name="btn_play_title_1">Play 1</string>
+    <string name="btn_play_title_2">Play 2</string>
+    <string name="btn_play_title_3">Play 3</string>
+    <string name="btn_stop_title">Stop</string>
+
+
+</resources>
